@@ -1,6 +1,9 @@
 # Blooket
 blooket hacks
 
+## Global
+
+
 ## <a id="addTokens.js"></a>addTokens.js
 
 Open console (ctrl + shift + j) and paste the following:
