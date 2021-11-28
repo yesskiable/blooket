@@ -39,6 +39,11 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 
 
+
+
+
+
+
 ## <a id="chest-esp.js"></a>chest-esp.js
 
 Open console (ctrl + shift + j) and paste the following:
@@ -54,6 +59,13 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 ```
 
 ## Factory 
+
+
+
+
+
+
+
 
 ## <a id="GetMegaBot"></a>GetMegaBot.js
 
@@ -73,6 +85,10 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 
 
+
+
+
+
 ## <a id="GetCrypto"></a>GetCrypto.js
 
 Open Console (ctrl + shift + j) and past the following:
@@ -88,6 +104,14 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 
 ## Tower Defence
+
+
+
+
+
+
+
+
 
 ## <a id="ChangeGameRound"></a>ChangeGameRound.js
 
@@ -112,6 +136,15 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 
 ## Tower Of Doom
+
+
+
+
+
+
+
+
+
 
 
 ## <a id="AddCoins"></a>AddCoins.js
