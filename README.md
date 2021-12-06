@@ -8,7 +8,8 @@ blooket hacks
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEFkZFRva2Vucy5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxBZGRUb2tlbnMuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
+
 ```
 
 
@@ -16,21 +17,21 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxTcGFtT3BlbkJveGVzLmpzb24=')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## <a id="sellDupeBlooks.js"></a>sellDupeBlooks.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTM2L2dsb2JhbFNlbGxEdXBlQmxvb2tzLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTM2L2dsb2JhbFNlbGxEdXBlQmxvb2tzLmpz=')).then((res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## <a id="getEveryAnswerCorrect.js"></a>getEveryAnswerCorrect.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxFdmVyeUFuc3dlckNvcnJlY3QuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 
@@ -48,14 +49,14 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRDaGVzdEVTUC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nb2xkQ2hlc3RFU1AuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## <a id="Getgold"></a>Getgold.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRHZXRHb2xkLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nb2xkR2V0R29sZC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## Factory 
@@ -71,13 +72,14 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRNZWdhQm90Lmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9mYWN0b3J5R2V0TWVnYUJvdC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 ## <a id="GetCash"></a>GetCash.js
 
 Open console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRDYXNoLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9mYWN0b3J5R2V0Q2FzaC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
+
 ```
 
 
@@ -93,13 +95,13 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 Open Console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L2NyeXB0b0dldENyeXB0by5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9jcnlwdG9HZXRDcnlwdG8uanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 ## <a id="GetOtherUsersPasswords"></a>GetOtherUsersPasswords.js
 
 Open Console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2NyeXB0b0hhY2tQYXNzd29yZHMuanM=')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9jcnlwdG9HZXRPdGhlcnNQYXNzd29yZHMuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 
@@ -117,21 +119,21 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 Open Console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RkQ2hhbmdlR2FtZVJvdW5kLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS90ZENoYW5nZUdhbWVSb3VuZC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## <a id="ClearEnemies"></a>ClearEnemies.js
 
 Open Console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkQ2xlYXJFbmVtaWVzLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS90ZENsZWFyRW5lbWllcy5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 ## <a id="GetCash"></a>GetCash.js
 
 Open Console (ctrl + shift + j) and past the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkR2V0Q2FzaC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS90ZEdldENhc2guanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 
@@ -150,12 +152,12 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 ## <a id="AddCoins"></a>AddCoins.js
 Open Console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZEFkZENvaW5zLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS90b2RBZGRDb2lucy5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 ## <a id="LowerAllEnemyStats"></a>LowerAllEnemyStats.js
 Open Console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTkyL3RvZExvd2VyQWxsRW5lbXlTdGF0cy5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS90b2RMb3dlckFsbEVuZW15U3RhdHMuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 
