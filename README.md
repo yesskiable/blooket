@@ -163,4 +163,5 @@ fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlv
 
 
 
-## More hacks are coming soon if someone coments on this with more working hacks i will add them
+## More hacks are coming soon but i had to fix the old ones before making new ones. 
+## If someone coments on this with more working hacks i will add them.
